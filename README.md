@@ -1,8 +1,7 @@
  Git Flow for Pairs
 
 ## Person A
-* Create a local git repository
-* Link local repo to a GitHub repository (follow all Github instructions)
+* Fork and clone this repository
 * Add Person B as a collaborator to the repository
   * From the GitHub Repository main page, click on settings
   * In the left nav bar, click on Collaborators
